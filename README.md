@@ -1,6 +1,6 @@
-# helix-docker
+# p4-docker
 
-This repository contains a collection of source files for building Docker images for Perforce Helix. It exists purely because there is no working Docker solution in existence for Perforce Helix.
+This repository contains a collection of source files for building Docker images for Perforce Helix. It exists purely because there is no working Docker solution in existence for P4 VCS (was helix-p4d) .
 
 ## helix-p4d
 
